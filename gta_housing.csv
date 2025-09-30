@@ -1,0 +1,1001 @@
+price,bedrooms,bathrooms,sqft,house_type,year_built,neighbourhood,lot_size,garage,distance_to_downtown_km
+1954952,4,5,1727,Townhouse,1985,North York,6307,1,9.1
+1954952,4,5,1727,Townhouse,1985,North York,6307,1,9.1
+1759465,3,3,2808,Detached,1986,Mississauga,7706,0,5.4
+2269001,5,1,3691,Detached,1950,Scarborough,4655,0,24.9
+1590051,5,3,1409,Detached,1964,Scarborough,5173,0,20.8
+1119006,2,3,1103,Semi-Detached,1986,Mississauga,1909,1,4.2
+1350224,3,5,974,Detached,1962,Mississauga,5697,1,34.7
+1887906,3,4,2008,Townhouse,1957,Dowtown,7952,1,17.6
+1911478,3,2,3632,Condo,1954,Scarborough,55,0,18.7
+2001456,5,4,1512,Semi-Detached,2009,Etobicoke,2672,2,33
+1551768,4,4,1087,Detached,2022,Scarborough,779,1,28.9
+1828495,3,3,3228,Condo,1950,Scarborough,0,0,21.2
+2127353,6,4,3032,Semi-Detached,1985,Mississauga,3169,0,21.6
+1877609,5,1,3036,Condo,1984,Scarborough,0,0,22.4
+1877609,5,1,3036,Condo,1984,Scarborough,0,0,22.4
+1376951,4,1,888,Detached,2012,Scarborough,5269,1,17.3
+2352641,6,2,3418,Townhouse,1972,Brampton,5747,1,19.6
+1692003,6,3,1747,Detached,1958,Etobicoke,4927,1,14
+1829437,2,2,3852,Detached,1983,Mississauga,6635,2,7.3
+2029853,4,3,3573,Semi-Detached,1995,Scarborough,6073,0,12.9
+1616970,5,5,893,Townhouse,1953,Brampton,4631,1,7.1
+1631909,1,4,2067,Semi-Detached,1979,Brampton,7689,0,15.5
+1720604,4,5,2037,Condo,2021,Brampton,0,0,0.8
+1066585,2,2,418,Detached,1952,North York,3276,2,17.7
+2466662,6,4,3925,Condo,1963,Dowtown,0,0,1.9
+2891006,5,3,3953,Semi-Detached,2009,Etobicoke,8197,0,11.8
+2143544,4,4,2844,Detached,1994,Scarborough,8886,1,19
+1091967,1,1,1400,Detached,1983,North York,1162,2,21.3
+2132967,1,4,3750,Semi-Detached,1994,Scarborough,9171,1,20.4
+1449196,3,1,1250,Semi-Detached,2010,Scarborough,8544,1,17.6
+1707978,3,4,1788,Semi-Detached,1965,Mississauga,4718,1,6
+1448017,2,1,1754,Semi-Detached,2015,Mississauga,5560,0,22.8
+1572343,4,2,1767,Semi-Detached,1989,Mississauga,6374,1,6.2
+1533756,4,5,1221,Detached,1966,North York,6081,0,23.8
+1413679,6,3,854,Semi-Detached,1983,Scarborough,2514,0,20
+2346440,6,4,2024,Detached,1965,Dowtown,4289,1,25.9
+2787610,6,5,3172,Detached,2009,Etobicoke,9603,1,15.2
+2293862,3,3,3536,Semi-Detached,2015,Mississauga,7648,1,8.4
+2516025,4,3,3547,Semi-Detached,2015,Mississauga,8266,1,4.7
+1356087,4,1,1110,Townhouse,1962,Scarborough,2864,0,5.5
+1715382,1,2,2590,Detached,2005,Scarborough,4129,1,1.9
+1466418,3,2,1316,Semi-Detached,1980,North York,6419,1,22.5
+2507321,5,5,3275,Semi-Detached,1983,North York,6175,0,23.5
+1887182,3,2,3052,Semi-Detached,1988,Mississauga,9372,2,19.4
+2032269,5,4,1896,Townhouse,2016,Scarborough,7138,2,14.7
+1595671,1,2,1840,Townhouse,1957,Dowtown,5151,0,31.5
+1272768,2,5,704,Condo,2004,Etobicoke,0,0,14.2
+1577017,4,2,1135,Detached,1976,Scarborough,8440,0,16.8
+2001012,1,4,3968,Condo,2002,Scarborough,0,0,14.6
+1535043,4,1,2738,Semi-Detached,1988,Brampton,871,1,12.3
+2694236,6,5,2363,Townhouse,2014,North York,7498,2,20
+1526002,2,1,2549,Townhouse,1966,Etobicoke,1115,1,9.9
+1315247,2,1,2409,Condo,1979,Mississauga,0,0,9.4
+2140112,1,1,3738,Townhouse,2002,Scarborough,6510,2,20.5
+1907823,2,3,3314,Semi-Detached,1962,Mississauga,2753,1,11
+2292557,5,3,3415,Townhouse,1970,Scarborough,5442,1,16.1
+1518823,2,1,3421,Condo,1968,Mississauga,0,0,12.3
+2585150,4,5,3289,Semi-Detached,2002,Etobicoke,1768,1,14.9
+1618714,4,4,1361,Condo,1968,North York,0,0,9.6
+2371490,4,4,3389,Townhouse,2006,Etobicoke,9476,1,9.9
+1420881,4,2,1426,Condo,1974,Brampton,0,0,8.4
+2403467,5,5,2532,Condo,1980,Dowtown,0,0,21.7
+2027840,3,3,2775,Detached,2004,North York,2737,1,16.4
+2232604,6,1,3263,Townhouse,1972,Etobicoke,4554,1,22.3
+1201616,1,2,1873,Townhouse,1981,Brampton,1435,2,23.2
+2283142,4,4,2901,Condo,2011,Dowtown,0,0,11.3
+1740925,2,3,2347,Detached,1959,Brampton,8391,1,22.1
+2315343,4,3,3076,Townhouse,2021,Scarborough,825,0,14.9
+2233096,2,1,3692,Semi-Detached,2003,Scarborough,8274,2,13.7
+1899803,6,4,1577,Condo,2001,Mississauga,0,0,25
+1662211,6,5,1064,Townhouse,1969,North York,2485,2,19.4
+1345037,6,3,411,Semi-Detached,1981,Scarborough,5432,1,12.2
+1220458,2,1,1556,Townhouse,1963,Brampton,5103,2,18.9
+1320639,4,5,703,Semi-Detached,1999,North York,3278,0,4.9
+2462885,6,4,3764,Condo,1977,Scarborough,0,1,17
+2439802,5,3,3422,Townhouse,2002,Mississauga,9332,0,3
+2430272,2,5,3771,Townhouse,1973,Etobicoke,8254,2,7.1
+1639168,2,5,2163,Detached,1971,Mississauga,4578,2,19.7
+2387590,4,5,3230,Condo,1979,Dowtown,0,0,0
+1193124,2,3,442,Semi-Detached,2012,Scarborough,4542,2,29.4
+1377901,2,3,1343,Townhouse,1953,Dowtown,3075,2,21.7
+2369211,6,2,2790,Townhouse,2008,Dowtown,7254,2,0.3
+1567715,4,4,1749,Semi-Detached,1957,Brampton,2081,1,34.2
+2108221,6,1,2945,Condo,1961,North York,0,0,36.4
+2103331,6,5,2811,Detached,1980,Brampton,2740,2,13.6
+1486480,4,2,1290,Detached,1983,Scarborough,4466,0,7.6
+1969623,1,1,2874,Townhouse,1998,Dowtown,8104,0,28.5
+2015409,6,2,1404,Semi-Detached,2006,Etobicoke,8820,0,12.2
+1537055,5,3,420,Townhouse,1975,Dowtown,6468,2,16.3
+1890396,5,5,806,Semi-Detached,1967,Etobicoke,9543,2,24.7
+1565937,2,1,3066,Detached,1987,Brampton,7993,0,13.8
+1340603,5,1,1414,Condo,1999,Brampton,0,0,13.1
+1020421,2,1,735,Semi-Detached,1957,North York,2576,0,4.8
+1625688,1,1,2238,Detached,1990,Dowtown,5731,1,10
+1937233,4,1,3588,Townhouse,1955,Mississauga,3494,0,12.9
+1519695,4,2,1547,Semi-Detached,2018,Brampton,4244,0,5.1
+1929369,4,5,2846,Condo,1993,Brampton,0,0,5.8
+2511803,5,3,3240,Townhouse,2013,North York,8031,2,15.3
+1513680,1,3,2227,Townhouse,1978,Etobicoke,7871,1,0.2
+1664841,5,3,1114,Detached,1977,North York,2144,1,8
+1665651,5,3,450,Semi-Detached,1960,Dowtown,3644,0,30.6
+1083189,1,2,723,Townhouse,2014,Scarborough,742,2,12.2
+1138320,1,4,1188,Condo,1968,Scarborough,0,0,11.2
+1272990,1,5,540,Semi-Detached,1958,Etobicoke,8454,1,12.2
+1272990,1,5,540,Semi-Detached,1958,Etobicoke,8454,1,12.2
+1742527,4,4,1186,Townhouse,1983,Etobicoke,7630,1,19.6
+1516069,3,3,2225,Condo,1993,Brampton,0,0,19
+1680799,3,4,1757,Detached,2017,Brampton,8862,1,11.9
+1436564,1,5,2316,Condo,1964,Scarborough,0,0,13.3
+1361181,3,1,1363,Semi-Detached,2000,Etobicoke,6831,1,25.5
+1863174,3,1,3455,Condo,1962,North York,0,0,2.9
+1130528,1,5,772,Condo,1998,Brampton,0,0,14.5
+2081092,3,5,2941,Detached,2019,Mississauga,2658,1,16.1
+1748303,5,3,2092,Condo,2005,Mississauga,0,0,8.8
+1594849,2,1,3198,Condo,2000,North York,0,0,14.1
+1334150,2,4,1579,Townhouse,1986,Mississauga,2535,0,7.7
+1742679,1,2,2738,Townhouse,1966,Dowtown,8477,2,20.1
+1779854,4,2,2071,Semi-Detached,2007,Brampton,1357,1,4.3
+2089586,1,5,3615,Townhouse,1978,North York,4323,2,23.5
+1422129,4,3,505,Townhouse,1982,Etobicoke,7270,2,14.4
+1526666,2,2,1843,Townhouse,2009,Brampton,9741,0,11.4
+1657213,1,1,3117,Townhouse,2004,North York,798,2,7
+2162254,6,5,2081,Detached,1959,Scarborough,7744,1,23.2
+1450566,5,4,401,Townhouse,1996,Etobicoke,1423,0,9.8
+1907317,3,5,3036,Detached,1972,Scarborough,4732,1,5.7
+2221048,4,4,3091,Detached,1970,Brampton,4806,1,23.4
+2144380,6,5,2537,Townhouse,1962,Etobicoke,3299,0,7.8
+2323690,3,5,3816,Condo,1982,Mississauga,589,0,14.2
+1492252,3,5,749,Detached,1973,North York,5375,0,21.6
+1870652,1,4,3930,Condo,1960,Brampton,0,0,16.3
+1771942,3,4,1686,Condo,1966,Dowtown,0,0,28.8
+2562611,5,5,3822,Townhouse,2017,Etobicoke,2302,2,8.3
+2489671,6,2,3579,Semi-Detached,1996,Etobicoke,3157,1,13.3
+1363958,3,3,1462,Townhouse,1974,Brampton,3846,0,13.9
+1921751,1,3,3356,Semi-Detached,2022,Brampton,3449,1,20
+2036097,5,3,2606,Semi-Detached,1970,Scarborough,1441,1,25.3
+2064422,2,4,3406,Townhouse,1961,Mississauga,2407,1,15.6
+2116614,6,4,2759,Townhouse,1986,Scarborough,5337,0,13.9
+2245909,3,2,3712,Semi-Detached,1991,Scarborough,8605,2,3.1
+981393,1,3,844,Townhouse,1966,Mississauga,1743,2,15.9
+1959575,2,3,2745,Semi-Detached,1997,Dowtown,6196,2,9.8
+1432758,2,5,1351,Condo,1977,Scarborough,0,0,19.9
+1328961,4,4,435,Townhouse,1990,Scarborough,4457,2,11.7
+1528559,5,3,1507,Condo,1996,Etobicoke,0,0,13.1
+1494048,3,2,1875,Detached,1967,Mississauga,875,1,3.3
+1325480,1,2,2198,Condo,2020,North York,0,0,0.5
+1965286,4,3,2245,Condo,1962,Dowtown,888,1,29.9
+1977787,5,4,1808,Semi-Detached,1962,Dowtown,7002,0,16
+1244922,4,2,1595,Condo,1980,Mississauga,0,0,18.2
+1785093,6,5,1799,Townhouse,1951,Brampton,2393,0,7.7
+1843014,5,2,2108,Semi-Detached,1965,Brampton,8606,0,22
+1639354,5,1,1785,Detached,1958,Etobicoke,2152,1,20.6
+1777028,3,1,3006,Townhouse,2022,Etobicoke,6040,0,8.6
+2049774,5,4,3338,Detached,1987,Mississauga,4392,1,6.5
+2141070,4,3,2588,Condo,2003,Etobicoke,0,0,9.1
+2530428,5,4,3334,Townhouse,2005,Dowtown,5315,1,14.8
+2508229,3,4,3589,Townhouse,1994,Dowtown,2412,0,16.3
+1635642,3,4,1700,Detached,1983,North York,9984,1,15.3
+2502360,6,4,3173,Townhouse,1958,Brampton,9292,0,25.4
+1750108,4,5,1643,Townhouse,1957,Mississauga,9072,1,9.3
+2291788,2,5,3497,Townhouse,1956,Scarborough,4713,1,6.3
+1015128,2,2,920,Condo,1985,Brampton,0,0,15
+1835827,5,1,2206,Detached,1967,Scarborough,9790,2,1.5
+1450394,6,4,409,Townhouse,1952,North York,6099,2,20.6
+1259887,1,2,1383,Semi-Detached,1977,North York,6948,0,15.8
+2236989,5,1,2825,Semi-Detached,2019,Etobicoke,9057,0,12.3
+1818672,6,3,2056,Semi-Detached,1993,North York,7882,1,11.9
+1806148,4,5,2060,Semi-Detached,1970,North York,9482,1,22.3
+1925711,4,1,3129,Condo,1977,Scarborough,0,0,22
+2200622,4,3,3031,Townhouse,2003,Etobicoke,8207,1,13
+1895325,4,1,2599,Detached,2003,North York,1246,0,19.7
+1790304,4,5,1119,Townhouse,2014,Brampton,9004,1,21.9
+1948641,6,5,1472,Condo,1970,North York,0,0,17.7
+2498194,6,2,3625,Semi-Detached,1962,Etobicoke,1420,2,13.4
+1605221,3,4,1258,Condo,2006,Mississauga,0,0,18
+1265764,2,1,1716,Townhouse,1998,Etobicoke,7508,1,6.7
+1824598,4,1,2003,Detached,2003,Scarborough,2881,1,15.6
+771809,1,3,449,Condo,1959,Mississauga,0,0,13.1
+2763203,6,5,3111,Detached,2002,Brampton,9489,2,11.9
+1670326,1,1,2978,Condo,1993,Dowtown,0,0,1.2
+1779852,1,5,3531,Detached,1996,Etobicoke,772,1,6.8
+2084554,1,1,3638,Detached,2002,Scarborough,2273,2,11.1
+1815618,3,2,3673,Semi-Detached,1995,Brampton,3047,1,22.2
+2401605,6,4,3304,Detached,1962,Mississauga,3664,0,17.3
+860504,1,1,545,Semi-Detached,1986,Brampton,5280,1,22.5
+1692501,4,5,1314,Townhouse,1973,Etobicoke,1446,0,24.9
+1948873,5,2,3440,Townhouse,1951,North York,1006,0,17.6
+1284369,1,1,1862,Semi-Detached,1963,Etobicoke,7219,1,16.1
+2292080,3,3,2689,Semi-Detached,1959,Dowtown,8935,2,7.2
+1531094,6,4,980,Condo,1984,Etobicoke,0,0,30.9
+1654459,3,1,3134,Condo,1974,Mississauga,0,0,3.7
+1140888,1,2,1984,Condo,1952,Mississauga,0,0,15.9
+1559944,6,3,882,Townhouse,1966,Etobicoke,4090,0,21.7
+2234551,5,2,3579,Condo,1961,Mississauga,0,0,21.8
+1326437,1,2,1649,Detached,2003,North York,1964,2,5.8
+1248203,3,3,1072,Detached,1973,Brampton,890,1,11.6
+1038662,2,2,1030,Condo,1978,Etobicoke,0,0,8.6
+2072852,4,3,3108,Detached,1992,North York,6606,0,0
+1129317,3,1,1061,Townhouse,1974,Brampton,9364,1,16
+2546569,6,3,3903,Detached,2009,Brampton,3060,1,9.3
+1992404,1,3,3252,Townhouse,2014,North York,6367,1,27
+2047378,4,4,2866,Semi-Detached,1977,Scarborough,1711,0,19.9
+1359799,1,3,1387,Semi-Detached,1965,Etobicoke,9621,2,15.3
+2354642,6,3,3926,Semi-Detached,1996,Brampton,2039,2,11.2
+1943322,1,1,3631,Semi-Detached,2007,Brampton,9604,1,15.9
+1381581,2,4,1946,Detached,1976,Mississauga,1143,0,13
+1718121,4,5,1049,Condo,2002,Brampton,0,0,15.6
+1520403,4,1,1368,Detached,1991,North York,9421,2,30.2
+1954640,6,1,3037,Townhouse,2008,Brampton,1783,0,6.5
+1472074,2,5,1500,Detached,1996,Scarborough,8180,2,13.7
+2198707,3,3,2956,Detached,1983,Etobicoke,7845,2,20.7
+944025,1,2,840,Townhouse,1986,Etobicoke,4886,0,11.8
+2436207,5,4,3725,Semi-Detached,1955,Brampton,1419,0,27.6
+1205919,1,2,1320,Semi-Detached,1956,Dowtown,2839,1,20.4
+1772329,1,5,1169,Semi-Detached,1974,Dowtown,9447,1,9.2
+1395091,3,1,1743,Condo,1982,North York,0,0,16.6
+1729364,1,1,2226,Townhouse,2004,Dowtown,5902,0,9.4
+1200944,2,4,662,Townhouse,2007,North York,6163,0,8.6
+1288034,2,1,1977,Detached,1956,Mississauga,5775,1,13.9
+2189767,4,1,3845,Condo,2006,North York,0,0,25.1
+2483920,6,4,3084,Semi-Detached,1961,Dowtown,1936,2,21
+2150703,5,4,3638,Condo,1965,Brampton,0,0,14.8
+1680708,1,5,2906,Townhouse,1992,Mississauga,7854,0,21.2
+1338418,1,1,1398,Townhouse,1956,Dowtown,5016,1,17.1
+2012415,3,1,3751,Detached,2000,North York,4122,1,5.6
+1906647,6,5,1099,Detached,2022,Scarborough,4899,1,13.8
+1615918,2,3,2749,Townhouse,1981,Etobicoke,5537,1,14.4
+2305663,5,3,2003,Semi-Detached,1957,Dowtown,8611,0,21.1
+1766941,4,3,1641,Semi-Detached,2021,North York,4215,1,10.5
+1453285,2,5,1525,Condo,1994,Mississauga,0,0,7.7
+2425494,6,1,3001,Townhouse,2008,Dowtown,1801,1,14.6
+2174270,4,5,2735,Townhouse,1953,Dowtown,7870,2,9.8
+1751560,3,5,1590,Semi-Detached,2016,Etobicoke,5685,0,12.4
+1868756,3,3,3068,Semi-Detached,1978,North York,2655,2,14.4
+1312935,1,2,1405,Townhouse,1978,Scarborough,6911,1,11.9
+1353294,6,1,435,Detached,1977,Mississauga,6865,1,22.7
+1443841,5,3,1143,Townhouse,1993,North York,1192,1,26.3
+1737385,4,2,2164,Townhouse,1953,Mississauga,1978,0,21.9
+1305210,2,2,752,Semi-Detached,1958,Dowtown,6896,2,0.8
+2392347,6,4,2322,Semi-Detached,1954,Etobicoke,8948,0,9.9
+1491746,6,1,472,Detached,2005,Etobicoke,941,0,13.6
+1699550,3,2,3095,Detached,1999,Brampton,3146,1,0.2
+1210693,1,3,1776,Condo,1964,Scarborough,0,0,8
+1650241,1,4,2314,Townhouse,1981,Etobicoke,7033,1,13.5
+1679819,4,1,1493,Semi-Detached,1977,Dowtown,5177,0,11.4
+2122660,3,5,2872,Detached,1971,Scarborough,7711,1,15.1
+2470874,6,3,3446,Condo,1966,North York,0,0,4
+1588416,5,2,1107,Condo,2008,Etobicoke,0,0,11.3
+1789295,3,2,2204,Semi-Detached,2020,Scarborough,9816,2,16.2
+2347494,4,3,3008,Semi-Detached,2006,Dowtown,8433,2,15.1
+1953433,4,2,3275,Condo,1975,Brampton,0,0,18.6
+1420883,3,4,1355,Detached,1974,Mississauga,8428,0,18.1
+1812827,4,1,2964,Condo,1959,Mississauga,0,0,11.7
+2111352,3,4,2875,Townhouse,1994,Dowtown,6589,0,16
+1231456,2,2,559,Townhouse,1960,Dowtown,7896,0,8.6
+1957794,3,5,2596,Semi-Detached,2002,Mississauga,8297,1,12.8
+1964224,3,1,3223,Detached,2021,Brampton,1361,0,6.6
+2178155,4,1,3701,Detached,2017,Scarborough,8846,0,23.5
+1808998,4,3,2135,Townhouse,1977,Mississauga,3994,1,12.8
+1669829,1,3,1985,Condo,2014,Dowtown,0,0,23.5
+1131026,1,5,466,Semi-Detached,1998,Etobicoke,1769,1,17.5
+1742058,2,1,3461,Condo,1996,North York,0,0,7.9
+1687013,1,5,2828,Condo,2001,Brampton,0,0,17
+1172460,3,3,457,Condo,2003,Brampton,0,0,21.5
+2364560,4,3,3730,Detached,2009,Etobicoke,9438,2,14.4
+937519,1,1,741,Townhouse,2006,Etobicoke,2225,1,15.6
+1574712,1,4,1553,Detached,1996,Dowtown,8962,2,10.6
+1889180,2,2,3174,Townhouse,1980,Mississauga,6311,1,15.2
+1997548,6,3,1595,Semi-Detached,1995,Scarborough,6106,1,16.9
+1889454,2,3,3217,Semi-Detached,1975,Brampton,4456,2,10.4
+1878443,3,4,3061,Condo,1954,Brampton,0,0,6.4
+2071748,4,4,1632,Townhouse,2001,Etobicoke,8965,2,25.3
+1818204,2,5,2801,Townhouse,2003,Mississauga,2806,1,19.8
+1723063,1,5,1894,Townhouse,1982,Brampton,9850,0,10.6
+1518497,4,2,2221,Condo,1999,Scarborough,0,0,16.8
+1211441,4,2,515,Condo,1987,Etobicoke,0,0,3.2
+2003935,1,1,3735,Semi-Detached,1976,Scarborough,9901,1,0
+1462866,2,5,1061,Detached,1964,Mississauga,5175,2,23.7
+1598000,1,3,1865,Townhouse,2010,Brampton,9582,0,16.8
+2416188,6,5,2900,Townhouse,1970,North York,7248,2,14.6
+1833352,4,3,2268,Detached,1995,Brampton,6603,1,16.9
+2388952,5,4,3948,Townhouse,2018,Mississauga,1973,1,40
+2095904,5,5,2734,Condo,1955,Brampton,0,0,22
+2134712,3,4,3774,Condo,1987,Brampton,0,0,6.6
+1589541,1,2,1416,Townhouse,2011,Dowtown,3596,0,1.6
+895311,1,2,710,Condo,2011,Brampton,0,0,23.4
+830385,3,1,607,Condo,1995,Brampton,0,0,21.8
+2041806,3,5,3065,Townhouse,1962,Scarborough,6482,0,19.6
+2055920,3,4,2893,Semi-Detached,1952,North York,6298,0,8.5
+2064800,4,3,3117,Detached,1955,Scarborough,8915,2,17.9
+1395531,6,2,1032,Condo,1957,Scarborough,0,0,9.2
+1680970,1,2,2502,Semi-Detached,1993,Etobicoke,8956,0,20.3
+2270352,4,3,3359,Condo,1982,Dowtown,0,0,22.9
+2048387,3,4,3483,Condo,1999,Scarborough,0,0,10.7
+1183392,1,4,1056,Detached,1960,Mississauga,7059,1,24.1
+1749117,4,5,1823,Condo,1977,Mississauga,0,0,15.9
+2233192,6,5,2331,Detached,2019,Brampton,3274,2,18.9
+2143592,4,1,3427,Detached,1990,Etobicoke,6173,1,4.5
+2148934,6,2,2962,Detached,1965,Dowtown,3624,2,16.9
+2480553,3,5,2079,Semi-Detached,2017,Dowtown,9171,2,9.6
+1517728,6,4,636,Townhouse,1997,Brampton,1853,2,18.8
+2184420,1,3,3750,Semi-Detached,2005,Mississauga,9581,2,26.7
+1506310,3,4,747,Townhouse,2013,North York,4354,2,17.3
+1949345,1,2,3074,Townhouse,2008,Etobicoke,8634,0,7.8
+2309745,5,4,3575,Detached,2011,Brampton,1424,1,20
+1034111,2,1,1029,Condo,1960,Etobicoke,0,2,18.2
+1759566,6,2,1940,Detached,1967,Mississauga,6006,2,31.5
+1617056,2,3,2403,Condo,1968,Mississauga,0,0,17
+1561671,2,1,1671,Townhouse,2004,North York,8720,0,10.3
+1505657,6,2,763,Detached,1975,North York,8726,0,21.2
+2075750,3,3,2768,Condo,1955,Dowtown,0,0,14
+1208172,5,1,685,Semi-Detached,1953,Etobicoke,3170,0,15.6
+680388,1,1,548,Condo,1978,Etobicoke,0,0,7.6
+1648474,4,2,1507,Detached,2008,Mississauga,1088,0,14
+2064812,1,5,2853,Semi-Detached,1966,Dowtown,3638,0,15.2
+1836234,4,1,3425,Condo,1992,Brampton,0,0,14
+895949,1,1,855,Condo,2015,Etobicoke,0,0,10.3
+2002059,6,3,2166,Condo,1983,Dowtown,0,0,17.3
+1929140,5,4,1199,Condo,1957,Dowtown,0,0,7.6
+1274740,4,2,1584,Condo,1962,Mississauga,0,0,5.7
+1583088,3,2,1412,Semi-Detached,1957,Dowtown,6519,2,20.7
+2063846,1,5,3231,Townhouse,2014,North York,1056,1,19.9
+1909102,1,5,2907,Semi-Detached,1992,North York,8522,0,4.5
+1676285,4,2,1923,Semi-Detached,1988,Scarborough,5952,2,0.4
+2150757,3,5,3185,Semi-Detached,2008,Mississauga,4067,2,6.9
+1718420,3,3,2956,Townhouse,1993,Brampton,4399,0,14
+1496363,6,2,880,Detached,1958,Scarborough,6977,1,24.2
+2339941,6,5,2086,Townhouse,1986,North York,8000,0,13.8
+1816269,6,2,2561,Semi-Detached,1985,Scarborough,1516,1,8.8
+2322520,6,4,3196,Condo,1977,Mississauga,0,0,16.2
+1709018,6,1,2001,Condo,1991,Mississauga,0,0,14.1
+2530636,6,2,2808,Semi-Detached,1992,Dowtown,9530,0,4
+1289555,5,1,740,Condo,1991,Etobicoke,0,0,4
+2442513,3,5,3217,Semi-Detached,2015,Dowtown,3996,1,4.2
+1816876,6,1,2410,Condo,2004,Mississauga,0,0,34.8
+2153798,3,2,3208,Townhouse,2021,North York,6756,2,21.9
+1935636,3,4,3416,Detached,1997,Brampton,2813,0,10.3
+1987383,2,5,2896,Detached,1971,North York,1731,1,23.9
+2132873,5,2,2266,Townhouse,1976,Dowtown,6331,1,10.5
+2101297,6,5,1234,Townhouse,2016,Brampton,3499,1,23.6
+1131661,1,3,1603,Semi-Detached,1962,Mississauga,3940,0,15.6
+1780067,4,1,2125,Semi-Detached,1994,North York,4556,2,9.7
+1797026,1,3,3878,Semi-Detached,1959,Mississauga,805,1,20.4
+1623672,5,2,2089,Condo,1958,Brampton,0,0,16.1
+2443081,4,4,3667,Semi-Detached,2003,Brampton,4417,1,18.2
+2764504,5,5,3937,Townhouse,1976,North York,7580,1,16.7
+1141733,3,1,710,Detached,1983,Mississauga,9111,2,16.6
+1495126,4,5,661,Condo,1950,Scarborough,0,0,21.4
+1577367,3,2,1842,Semi-Detached,1981,Mississauga,4362,1,35.7
+1260470,1,5,805,Condo,2020,Brampton,0,0,25
+1309391,1,1,2590,Condo,2016,Mississauga,0,0,16.8
+1723450,4,2,741,Semi-Detached,1969,Dowtown,9856,2,12.5
+1792270,4,5,1739,Condo,1984,Scarborough,0,0,13.4
+2217456,6,4,3572,Detached,1966,Etobicoke,1842,0,5
+1478150,5,2,643,Townhouse,1967,Dowtown,6060,2,20.3
+1372269,6,2,889,Townhouse,1994,Etobicoke,2726,1,6.9
+1377950,5,4,411,Detached,2002,North York,1579,2,12
+2596815,6,3,3710,Condo,2017,Etobicoke,0,0,20.4
+1412026,3,1,960,Semi-Detached,2014,Mississauga,6780,2,13.1
+1143107,4,3,441,Condo,1950,Etobicoke,0,0,11.1
+2021353,1,5,3125,Detached,2007,Brampton,1313,2,5.4
+1856813,5,4,993,Condo,1975,Dowtown,0,0,24.6
+1836660,5,3,1852,Townhouse,1969,Dowtown,2531,0,8.3
+1412278,1,2,2226,Condo,1959,Etobicoke,0,0,10.3
+3171121,6,5,3629,Detached,2008,Dowtown,9595,1,0.7
+2534048,5,5,3687,Townhouse,1990,Brampton,6411,2,14.8
+1697919,3,3,2093,Condo,1954,Dowtown,0,0,12.3
+2455263,4,3,3933,Condo,2014,Etobicoke,0,0,16.5
+1067755,1,4,533,Townhouse,1966,Scarborough,8376,2,5.6
+2094506,4,1,3538,Semi-Detached,1971,Scarborough,1641,1,20.9
+2257626,5,3,3478,Townhouse,1990,North York,9541,0,0.3
+2287761,5,3,1347,Semi-Detached,2017,Dowtown,9058,2,14.3
+2065867,1,2,3997,Detached,2018,Etobicoke,3397,1,15.9
+1497050,3,5,472,Detached,1960,Dowtown,9781,0,15.5
+1124035,2,1,798,Townhouse,2005,Mississauga,4541,2,16.3
+1118715,1,2,1828,Townhouse,2000,Brampton,2538,0,21.3
+2209592,2,4,3025,Detached,1970,Dowtown,4770,0,25.6
+2838453,6,4,3306,Semi-Detached,1975,Dowtown,5183,0,13.8
+1080808,2,3,529,Detached,1968,Scarborough,994,1,7.3
+2052793,3,3,3378,Townhouse,2009,Brampton,7616,2,19.5
+2871123,6,4,3937,Detached,2020,Etobicoke,2284,2,12.8
+2315386,2,3,3677,Townhouse,1996,Dowtown,4010,1,25.1
+2170497,6,1,2211,Townhouse,2020,Scarborough,4286,2,10.2
+1513157,2,3,2401,Detached,1975,North York,5766,0,8.1
+1452498,3,5,665,Semi-Detached,1989,Brampton,9690,2,16.2
+1452498,3,5,665,Semi-Detached,1989,Brampton,9690,2,16.2
+1502636,2,2,2385,Detached,1970,Scarborough,7181,0,11.3
+995932,2,1,1192,Condo,1953,Scarborough,0,0,12.4
+1742080,1,2,2700,Detached,1972,Dowtown,5158,0,16.8
+1952701,1,2,3269,Condo,1964,Dowtown,0,0,7
+1711327,1,5,1712,Semi-Detached,1957,North York,7369,2,8
+1083163,3,1,563,Semi-Detached,1990,Mississauga,8107,0,24.3
+1328076,6,1,494,Detached,1968,Mississauga,8169,1,14.9
+1674255,5,1,2205,Townhouse,1995,Mississauga,6719,2,21.9
+1764151,2,1,3280,Condo,1977,Brampton,0,0,10.7
+1450774,2,1,1533,Townhouse,2017,Brampton,6479,0,14.6
+2297694,3,5,2783,Townhouse,1964,North York,9390,1,16.7
+1265960,2,3,1221,Townhouse,1986,Brampton,1812,1,29
+830362,1,2,637,Semi-Detached,1950,Mississauga,3462,0,13.3
+2190072,5,1,2828,Detached,2016,Mississauga,3438,2,13.7
+2249248,4,3,3907,Detached,1973,Scarborough,3697,1,23.8
+1829076,2,3,3346,Semi-Detached,1976,Brampton,5796,0,12
+2017259,1,2,2930,Semi-Detached,1989,Dowtown,7704,2,17.3
+2249434,4,5,2360,Detached,2012,Dowtown,6230,2,23.1
+2253985,5,4,3349,Townhouse,2010,Scarborough,626,2,10.4
+1518428,4,4,1448,Condo,1985,Scarborough,0,0,17.7
+1333146,1,3,2076,Condo,1973,Scarborough,0,0,29
+2618398,6,2,3588,Condo,1973,Dowtown,0,0,22.4
+2041077,6,4,2929,Townhouse,1953,Mississauga,1866,2,17.3
+2419373,4,3,3863,Detached,2016,Scarborough,9711,1,13.2
+2066499,3,5,3364,Semi-Detached,1983,North York,6953,0,10.2
+2272976,4,4,3441,Detached,2006,Scarborough,7171,1,7.1
+1277853,2,3,1363,Townhouse,1998,Etobicoke,7183,1,27.1
+1400553,2,3,936,Semi-Detached,2002,Scarborough,5039,2,25.5
+2512661,6,1,3550,Townhouse,1972,Dowtown,9376,1,9.7
+1882780,3,5,2003,Condo,2018,Brampton,0,0,17.7
+2015805,1,1,3644,Condo,2002,Scarborough,788,0,15.9
+1661508,2,2,2379,Townhouse,2011,Brampton,2761,0,24.5
+2050890,6,1,3483,Semi-Detached,1990,Etobicoke,4680,2,18.1
+1246206,5,1,527,Semi-Detached,2006,North York,3341,2,14.8
+1816444,6,4,491,Detached,2009,Brampton,6540,1,10.7
+1169757,2,3,942,Condo,2003,Mississauga,0,0,17.7
+1734310,2,5,1245,Detached,2019,Scarborough,5258,2,12.2
+2048100,6,1,2081,Detached,2006,Etobicoke,1126,1,16.8
+2231946,1,5,3436,Townhouse,1959,Etobicoke,5514,2,14.4
+1719748,4,1,2251,Townhouse,1989,Brampton,1875,2,12
+1710371,2,2,2894,Detached,1956,North York,1681,2,7.2
+1463634,6,1,789,Condo,1987,Dowtown,0,0,19.1
+2751763,6,4,3119,Townhouse,2010,Scarborough,990,2,15.3
+1751227,3,3,2284,Detached,1952,Etobicoke,4229,2,29.3
+1124704,4,2,442,Detached,2000,North York,6474,1,6.7
+1277033,5,1,653,Detached,1996,Mississauga,4034,2,20
+2265800,1,5,3601,Detached,2017,Etobicoke,3796,0,14.3
+1687480,5,2,1483,Detached,1987,North York,2440,1,31.8
+2260476,4,2,3110,Detached,1985,Dowtown,5514,0,19.4
+1975348,4,1,2914,Townhouse,1990,Dowtown,2382,2,17.6
+2128788,4,2,2734,Condo,2018,Etobicoke,0,0,14.4
+2568252,5,5,3458,Detached,1962,Etobicoke,3487,2,9.4
+1838639,4,2,1940,Semi-Detached,2007,Brampton,6085,2,17.5
+2539847,6,5,3938,Townhouse,1999,Scarborough,3659,1,3.9
+1755936,5,1,2353,Townhouse,1979,North York,5030,1,4.3
+2332039,4,3,3225,Detached,2011,Etobicoke,1181,2,23.1
+1940970,6,2,2792,Townhouse,1974,Scarborough,5754,1,0.9
+1159450,3,3,1041,Detached,1976,Brampton,1573,0,12.4
+2110274,4,5,2829,Condo,2000,Scarborough,0,0,6.6
+1508318,5,2,1089,Condo,2006,Etobicoke,0,0,11.8
+1666421,2,4,1676,Townhouse,1996,Dowtown,4840,0,16.5
+1677427,4,3,2350,Townhouse,1988,North York,2656,1,22.9
+1386702,2,2,1479,Semi-Detached,1965,North York,8466,2,24.7
+2163513,6,3,1886,Townhouse,1971,Dowtown,3080,0,7.6
+1345947,3,2,856,Semi-Detached,2003,Etobicoke,7757,2,11.3
+891708,1,1,1382,Condo,1970,North York,0,0,40
+1914827,3,3,2530,Condo,2021,Etobicoke,0,0,13
+1739353,4,4,1522,Detached,1965,Brampton,2127,2,7.9
+1195855,2,4,548,Condo,2008,Etobicoke,0,0,9.3
+1563566,2,5,1752,Semi-Detached,1980,Scarborough,7580,2,13
+1729100,5,2,1579,Townhouse,1991,Dowtown,2485,1,11.9
+1268330,2,3,589,Detached,1981,Etobicoke,8988,0,13.1
+2602505,5,5,3965,Semi-Detached,2008,Brampton,2681,2,14.8
+1691178,6,3,1282,Townhouse,1983,Mississauga,2796,2,14.8
+1780924,1,2,2710,Detached,1958,Dowtown,7664,0,7.4
+2038778,4,4,3551,Condo,1960,North York,0,0,18
+1363122,5,1,799,Semi-Detached,1959,Scarborough,1401,2,16
+1986508,1,4,3211,Townhouse,1966,North York,6560,0,19
+1616548,2,5,1008,Detached,2017,Brampton,9790,1,1.3
+1693562,2,1,3731,Detached,1997,Brampton,2177,0,16.3
+1551179,1,5,2195,Condo,2001,North York,0,0,0
+1750097,2,2,2038,Townhouse,1974,Dowtown,6122,2,13.6
+1685401,6,1,1975,Condo,1970,North York,0,0,20.3
+2418325,6,5,3232,Condo,2014,Etobicoke,0,0,23.4
+1467840,1,2,2548,Townhouse,2012,North York,1748,1,17.7
+1720147,5,4,1782,Townhouse,2000,Scarborough,6150,1,20.4
+1914208,5,2,1803,Townhouse,1985,Scarborough,6579,1,12.6
+1462379,1,3,1219,Semi-Detached,2015,Mississauga,9956,2,10.9
+2503136,5,2,3692,Townhouse,1964,Scarborough,7536,0,36.5
+1498135,5,2,1219,Detached,1988,North York,6987,2,21.6
+1766788,6,3,819,Condo,2019,Scarborough,0,0,5.6
+1562587,5,5,523,Semi-Detached,1950,Dowtown,2548,0,1.1
+1496312,3,5,821,Townhouse,1972,Scarborough,6615,2,11.3
+2319014,4,2,3702,Semi-Detached,1988,Etobicoke,4748,1,24.5
+2301949,2,3,3534,Townhouse,2006,Dowtown,2976,1,15.4
+1526164,3,3,1908,Semi-Detached,1983,Mississauga,5103,0,0
+1665313,5,4,1997,Condo,1990,Etobicoke,0,0,13.6
+1754500,6,5,1167,Condo,2022,North York,0,0,15
+1468865,1,1,2444,Detached,1962,North York,5318,1,0
+2611822,5,5,2930,Detached,2019,North York,7692,0,15.2
+2498563,6,5,2966,Townhouse,1955,Etobicoke,5123,0,6.9
+2092111,4,4,2602,Condo,2001,Etobicoke,0,0,0.3
+1913255,5,1,2539,Semi-Detached,1952,Etobicoke,6118,0,27.8
+2171678,1,4,3429,Semi-Detached,2012,Dowtown,7709,1,6.5
+1614248,6,1,1949,Semi-Detached,1998,Brampton,5076,1,9.7
+2509918,6,2,2902,Detached,1996,Dowtown,2371,1,9.6
+1908116,6,1,2164,Semi-Detached,2004,North York,8415,1,15
+2113732,4,4,2444,Detached,2013,Brampton,1962,2,29.1
+2401420,5,5,3045,Detached,2014,Scarborough,6021,2,5.4
+1505743,4,1,909,Townhouse,2016,North York,9036,0,12.5
+1334316,2,1,1606,Semi-Detached,1964,Mississauga,8736,0,16
+1350913,2,3,785,Semi-Detached,1981,Dowtown,8313,0,8
+1966529,5,5,1997,Condo,2017,Etobicoke,0,0,12.4
+2217231,4,2,2852,Townhouse,1967,Dowtown,6253,1,19.8
+1572553,1,4,2693,Condo,1992,Etobicoke,0,0,9
+1514104,6,2,1141,Townhouse,1984,Brampton,7516,1,12.3
+2738219,6,5,3108,Semi-Detached,2007,Mississauga,6691,0,11.5
+1763344,5,1,3097,Detached,1982,Brampton,2014,0,14.2
+2002539,2,1,3942,Detached,1963,Mississauga,3098,0,16.9
+1903889,2,5,2311,Detached,1983,Dowtown,1501,0,19.7
+1678630,6,1,1846,Detached,2010,Etobicoke,1533,0,30.5
+1540541,5,1,1300,Detached,1953,Brampton,7399,1,0
+1743115,4,1,2512,Condo,2008,Mississauga,0,0,13.7
+1992364,2,4,3484,Townhouse,1978,North York,5551,1,4.1
+2005954,4,4,2660,Semi-Detached,1955,North York,4976,2,11.9
+1437294,2,3,2409,Condo,1998,Brampton,0,0,22
+936029,2,2,641,Townhouse,1989,Etobicoke,1015,1,24.6
+2025423,3,5,2940,Detached,2014,Brampton,1691,2,25
+2610489,2,5,3684,Townhouse,2018,Dowtown,6797,2,24.9
+1630462,1,5,2785,Townhouse,1976,Mississauga,771,2,13.6
+2330140,5,3,2420,Detached,1955,Dowtown,8834,1,26.2
+1593689,5,4,572,Detached,1962,North York,8278,0,27.8
+1556662,4,3,1071,Detached,2013,Mississauga,6508,0,16.1
+1470467,2,5,563,Semi-Detached,2011,Brampton,8487,1,24.4
+1266794,1,2,864,Detached,1968,Dowtown,3832,0,15.3
+1984502,4,1,3442,Semi-Detached,1992,Scarborough,1287,1,26.3
+1436618,3,4,896,Detached,1969,Etobicoke,6722,0,13.7
+1564108,4,4,1099,Semi-Detached,2017,Etobicoke,1122,2,10.1
+2119557,4,3,2842,Townhouse,1993,Scarborough,4341,0,6
+1113497,2,4,1102,Condo,1972,North York,0,0,13.6
+1753681,3,5,2340,Townhouse,1951,Mississauga,3072,1,15.7
+2286939,4,5,2755,Townhouse,1971,Etobicoke,7415,2,7.4
+1512519,1,3,2191,Detached,2006,Scarborough,5533,1,13
+1185141,1,5,582,Semi-Detached,2021,Brampton,8288,0,10.8
+1382657,5,2,1028,Condo,1956,Scarborough,0,0,6.4
+2163197,3,3,2957,Detached,2005,North York,5212,2,23.3
+1749330,3,2,2131,Detached,2016,North York,566,1,24.7
+1762894,5,1,945,Detached,1965,Dowtown,8033,2,23.3
+1525968,4,2,1987,Townhouse,2000,Etobicoke,5116,0,14.3
+1340052,3,1,1023,Semi-Detached,2021,Dowtown,1640,2,14.8
+1056091,1,1,993,Semi-Detached,1961,Scarborough,6230,1,6.5
+995991,1,2,1143,Condo,2002,Mississauga,0,0,18.3
+2154943,2,3,3698,Semi-Detached,1954,Mississauga,9879,1,16.4
+1715883,3,5,2168,Semi-Detached,1976,North York,4971,1,37.8
+1748585,4,5,1859,Detached,1961,Mississauga,3839,0,23.7
+1651820,5,1,2348,Detached,1966,Mississauga,1048,0,17.5
+2294793,5,1,3893,Townhouse,1955,Mississauga,8175,0,14.7
+2126165,4,3,3001,Detached,1954,Scarborough,8764,1,23
+2241466,6,4,2468,Detached,2006,Mississauga,698,2,7.7
+1586799,2,2,3001,Detached,1977,Brampton,1071,1,24.1
+1811851,5,1,2844,Detached,2018,Mississauga,1290,0,6.3
+1996202,3,5,3072,Townhouse,2008,Mississauga,1674,0,10.5
+1213472,2,3,504,Detached,1982,Dowtown,678,2,0.3
+1753786,3,2,2639,Condo,2011,Scarborough,0,0,19.9
+852542,1,3,416,Condo,1999,North York,0,0,17
+1948169,2,2,3591,Condo,1968,Dowtown,0,0,10.5
+1469589,5,2,792,Condo,2018,Etobicoke,0,0,7.6
+1137566,2,1,824,Detached,2015,Scarborough,1298,1,26
+1485536,2,3,2576,Condo,1996,Brampton,0,0,13.9
+2003791,2,3,3601,Detached,1988,Scarborough,9479,2,8.9
+1753068,6,5,971,Townhouse,2017,Etobicoke,3295,0,30.4
+1757740,2,5,2476,Condo,1982,Etobicoke,0,0,9.7
+1371366,3,1,1520,Semi-Detached,1962,Etobicoke,7797,0,24.1
+1670086,1,1,3481,Condo,2003,North York,0,0,5.8
+1280348,4,4,641,Condo,1956,Mississauga,0,0,12.2
+1702534,2,5,2679,Detached,1963,Scarborough,1629,1,19
+1371130,5,2,1188,Condo,1968,Mississauga,0,0,14.5
+2212256,2,3,3755,Semi-Detached,2003,Mississauga,3433,2,17
+1525609,5,1,1114,Detached,1969,Brampton,9907,0,10.7
+1341680,3,3,1158,Detached,1978,Etobicoke,9016,1,2.2
+2382711,5,3,3249,Townhouse,1973,North York,5574,0,26.7
+1805157,4,4,1175,Townhouse,2012,Brampton,7599,2,11.2
+2103005,1,5,3173,Condo,2006,Dowtown,0,0,17.3
+1701912,5,1,2647,Townhouse,1957,North York,1393,1,20.6
+2347134,5,3,3392,Townhouse,2011,Mississauga,1890,2,17.5
+846747,1,1,478,Townhouse,1978,North York,3889,0,9.3
+2207364,4,2,3403,Detached,1966,Etobicoke,4739,0,24.3
+1730782,2,4,1255,Detached,2015,Dowtown,4979,0,19.1
+2399992,5,2,3644,Detached,1955,Etobicoke,2763,2,16.6
+1705544,1,1,2914,Townhouse,2007,Dowtown,3932,0,16.4
+1681787,3,1,3028,Detached,2018,Brampton,2871,0,28.5
+1594257,1,5,1839,Townhouse,1977,Mississauga,4812,0,9.2
+2548523,3,3,3387,Detached,2011,Dowtown,2015,1,18.3
+2247937,4,3,2896,Detached,1990,Dowtown,6826,2,10.8
+2178125,2,2,2534,Semi-Detached,2018,Dowtown,7588,2,0
+1706960,1,4,2548,Condo,1990,North York,0,0,0
+1784749,6,3,1431,Townhouse,1998,Brampton,3417,1,6.9
+1936951,5,5,1244,Semi-Detached,1998,North York,6231,2,9.7
+2509467,4,2,3671,Detached,2020,Mississauga,8186,1,32.4
+1957044,1,2,3976,Townhouse,1952,Dowtown,1667,1,20.6
+1692705,5,5,486,Detached,1959,Brampton,8802,2,21.3
+1405715,1,4,2490,Condo,1984,Brampton,0,0,9.9
+2511166,3,5,3856,Semi-Detached,1951,Scarborough,4827,0,15.5
+1905906,1,4,3906,Condo,1973,Mississauga,0,0,33.4
+1750025,6,5,807,Semi-Detached,1987,Brampton,4155,2,5.3
+2365753,1,5,3954,Detached,1971,Dowtown,4293,1,18.6
+1569582,1,1,3111,Condo,1975,Dowtown,0,0,27.9
+2056561,6,2,3488,Condo,1992,Brampton,0,0,22.7
+2428964,4,5,2068,Detached,2004,North York,9988,2,29.4
+1080238,1,5,547,Condo,1988,Mississauga,0,0,16.7
+2348039,6,3,2724,Townhouse,1978,Dowtown,9664,0,19.8
+1384956,5,2,631,Semi-Detached,1969,Brampton,1530,2,15.9
+2131613,3,3,2350,Semi-Detached,1990,Dowtown,7191,1,19.3
+1249414,3,2,765,Semi-Detached,2003,Brampton,4492,0,7.7
+1664373,1,3,3699,Townhouse,1969,Mississauga,1413,1,21.3
+2078865,4,5,2074,Semi-Detached,1968,Brampton,6858,2,17.4
+1680755,4,5,835,Detached,2015,Scarborough,2681,2,15.5
+1250210,5,1,798,Condo,1979,Brampton,0,0,29
+1549672,1,3,1634,Townhouse,2002,Brampton,6540,2,12.9
+1635569,3,4,1814,Semi-Detached,1983,Mississauga,1962,0,24.7
+1954035,4,1,2946,Detached,1971,Brampton,7537,1,25.5
+1656114,1,3,2987,Condo,2016,Mississauga,0,0,21.8
+1270556,4,3,962,Condo,1955,Scarborough,0,0,7.3
+2338089,6,1,3962,Townhouse,1976,Mississauga,9881,1,17.9
+2131527,4,5,2889,Townhouse,1959,Dowtown,5808,0,30.7
+1679931,3,3,1684,Townhouse,2022,Mississauga,6721,0,0.5
+1578781,2,5,1172,Detached,1997,Scarborough,7590,2,13.5
+2335238,5,1,2797,Detached,2019,Etobicoke,8269,1,24.3
+2018889,5,5,2437,Townhouse,2008,Brampton,1187,0,14.1
+2284823,3,2,3823,Semi-Detached,2008,Mississauga,5161,1,21.5
+1749197,4,4,2967,Condo,1951,Brampton,0,0,26.3
+1146843,1,3,1743,Condo,1978,North York,0,0,16.9
+2259645,4,4,2585,Detached,2017,Dowtown,7889,2,19.1
+2146197,3,5,1973,Condo,2014,Dowtown,0,0,15.7
+1538081,5,3,1391,Semi-Detached,1975,North York,6822,0,17.4
+2106925,4,5,2815,Condo,1959,North York,0,0,31.8
+2321588,5,2,3691,Detached,2002,Mississauga,4297,2,14.5
+2197010,1,1,3808,Detached,2008,North York,5678,2,12.2
+1857647,5,3,1646,Semi-Detached,1971,Etobicoke,4468,2,23.3
+1410325,5,2,759,Semi-Detached,2000,Brampton,3216,0,8.3
+1180120,2,2,1320,Condo,1997,Brampton,0,0,10.1
+1801474,2,3,2776,Condo,1970,Scarborough,0,0,10.1
+2755808,6,5,3409,Detached,1971,North York,8681,0,13
+1745557,2,2,2910,Semi-Detached,1979,North York,878,2,13.3
+2152503,5,4,3393,Semi-Detached,1974,Etobicoke,4329,0,20.6
+1561493,3,2,1362,Semi-Detached,1977,Dowtown,6880,2,12.3
+2221965,5,5,2227,Condo,2014,Dowtown,0,0,20.9
+2324683,3,5,3853,Semi-Detached,1994,Brampton,2830,2,21.9
+2215072,3,4,3283,Detached,2017,Brampton,2254,2,9.8
+1420301,2,2,2013,Detached,1956,Mississauga,963,0,21.7
+1948785,4,5,2040,Condo,1998,Etobicoke,0,0,22.5
+1574597,1,3,2616,Townhouse,1958,Scarborough,4767,0,0.9
+860892,2,1,616,Condo,1985,Scarborough,0,0,17.3
+1083994,2,1,777,Townhouse,1950,Etobicoke,4124,0,10.9
+1088180,4,1,518,Semi-Detached,1959,Scarborough,5438,0,25.4
+1086739,1,2,589,Condo,1985,Dowtown,0,0,10.9
+2410533,5,4,3214,Detached,2022,Scarborough,6504,2,4.3
+1899854,6,5,769,Semi-Detached,1995,Scarborough,9381,2,14.8
+1946472,6,3,2201,Detached,1981,Etobicoke,6103,2,7.8
+2129847,5,3,2596,Semi-Detached,1981,Etobicoke,2712,1,21.8
+1078398,2,2,1051,Condo,1955,Scarborough,0,0,8.5
+1317647,1,1,2282,Townhouse,1997,North York,6318,1,14.9
+1285916,2,2,1911,Semi-Detached,1987,Etobicoke,882,1,27.4
+1374127,3,4,1169,Townhouse,1966,Mississauga,2756,1,23.8
+1938366,2,4,2821,Semi-Detached,1976,Mississauga,1912,2,18.8
+1933768,2,5,1180,Detached,2003,Dowtown,6646,1,14
+1962620,5,5,2116,Detached,1999,Scarborough,871,2,18.1
+2078497,5,4,2607,Semi-Detached,1984,North York,6306,2,20.5
+2383961,5,4,2798,Townhouse,1974,Dowtown,6065,0,7.1
+1903370,6,4,1711,Condo,1977,Scarborough,0,0,21.8
+2090005,3,2,3759,Condo,1964,Etobicoke,0,0,6.2
+2248692,5,4,3339,Detached,1953,Mississauga,7937,1,19.6
+1343581,1,3,1649,Condo,2022,Brampton,0,0,6.1
+1453898,6,1,922,Detached,1976,North York,1891,1,30.7
+1448084,4,4,921,Condo,1975,Brampton,0,0,21.1
+1073596,1,1,1182,Semi-Detached,1968,Mississauga,3439,2,2.6
+1655977,1,2,2720,Detached,1966,Brampton,6469,1,15
+1661875,5,1,1335,Detached,1992,Etobicoke,9765,1,10.8
+2156109,4,2,3873,Semi-Detached,1990,Scarborough,5313,2,9.9
+2069294,4,3,2630,Detached,1991,Etobicoke,4069,2,16.2
+1701369,6,2,2088,Condo,1999,Brampton,0,0,7.6
+1160704,4,2,887,Condo,1989,Etobicoke,0,0,21.1
+1795691,3,5,2250,Detached,1988,Mississauga,6914,0,20.6
+1679218,5,4,1245,Condo,1972,North York,0,0,17.8
+2089439,4,4,2571,Townhouse,2001,Etobicoke,7447,2,14.8
+2392298,6,3,3432,Detached,1996,Mississauga,8443,2,20.3
+2205573,3,3,3237,Semi-Detached,2012,North York,4162,2,21.3
+1863438,2,4,2861,Townhouse,2018,Scarborough,4982,1,18.6
+1645239,2,5,2403,Detached,1992,Brampton,5297,0,4.5
+1891803,3,4,2148,Semi-Detached,1997,Scarborough,5568,1,8.7
+2844390,6,5,3643,Condo,1983,Dowtown,0,0,12.9
+2121467,3,3,3759,Semi-Detached,1989,Mississauga,8533,2,3.2
+2570426,5,1,3906,Townhouse,2010,North York,1483,0,16.8
+1529344,5,3,1085,Condo,1999,Etobicoke,0,0,26.3
+1940763,2,3,2560,Detached,2016,Scarborough,9043,2,25
+2252143,4,2,3335,Condo,2011,North York,0,0,20.9
+2322061,6,2,2569,Detached,2007,Mississauga,2407,1,20.8
+1714395,2,2,1967,Detached,1982,Dowtown,7424,2,32.7
+1590045,4,2,1645,Semi-Detached,1965,Scarborough,9716,2,21.8
+1568483,4,5,438,Semi-Detached,1997,Brampton,9237,0,22.4
+2242258,5,4,2944,Semi-Detached,1959,North York,4674,1,3.5
+1022645,1,1,1179,Townhouse,1987,Brampton,9580,2,25.7
+1437699,1,3,1656,Townhouse,1968,North York,7765,2,18.2
+2288205,3,5,3390,Semi-Detached,1985,North York,9797,0,14.4
+2060809,5,1,2596,Townhouse,2008,Mississauga,2490,0,12.4
+2529373,4,5,3868,Condo,2012,Mississauga,0,0,10.6
+2249890,6,5,3469,Condo,1995,Mississauga,0,0,25.1
+1845531,1,3,3108,Townhouse,1952,Etobicoke,4275,2,14.8
+2208799,4,4,2327,Townhouse,2014,North York,9612,1,10.9
+814367,1,2,701,Condo,1957,Scarborough,0,0,8.8
+1999537,1,4,3831,Detached,2000,Brampton,2561,1,16.4
+1733277,1,3,2685,Condo,2022,Mississauga,0,0,12.1
+1348427,6,3,1046,Condo,1955,Mississauga,0,0,10.3
+1535643,5,3,1062,Townhouse,1988,Brampton,3144,2,3.9
+1952336,6,1,2683,Condo,2009,Brampton,0,0,22.7
+1664705,2,4,2159,Townhouse,1977,North York,8451,1,13.9
+2141466,4,4,2650,Townhouse,2003,Mississauga,6949,1,6.3
+1476933,5,5,655,Semi-Detached,1986,Brampton,3181,2,12.8
+1678695,5,5,997,Condo,1958,Etobicoke,0,0,19.4
+1831602,5,5,1061,Detached,2005,Etobicoke,7268,1,15.2
+1658197,5,3,634,Semi-Detached,2008,Mississauga,9630,0,16.5
+1818512,6,4,1768,Townhouse,1951,Brampton,7940,2,15.3
+2642717,5,3,2981,Townhouse,2010,North York,9133,1,4.8
+2053854,3,1,3307,Detached,2007,North York,3050,0,22.6
+2838921,4,5,3937,Townhouse,2009,North York,4725,2,1.3
+1608014,5,3,1169,Condo,1989,Dowtown,0,0,18.7
+2006571,4,3,2988,Semi-Detached,1985,Mississauga,6554,2,19.9
+981317,3,1,612,Townhouse,1986,North York,2005,2,13.2
+1455550,3,2,862,Townhouse,1967,Etobicoke,9553,2,17.8
+2280311,4,4,2883,Detached,2012,Brampton,6968,2,12.8
+876896,1,2,682,Condo,1971,Scarborough,0,0,17.9
+1676872,2,5,1886,Townhouse,1960,Scarborough,2051,1,22.9
+1528007,1,3,1830,Detached,2007,North York,7352,1,8.7
+889703,1,1,487,Townhouse,2006,Scarborough,1949,1,20.4
+1702031,6,1,1467,Detached,1953,Scarborough,6453,0,28.5
+1517054,1,4,860,Detached,1956,Dowtown,8956,1,17.1
+2049825,5,2,2725,Condo,2010,Etobicoke,0,0,11
+2402034,6,4,2868,Townhouse,2003,Etobicoke,3159,1,33.1
+2142333,6,3,2124,Condo,2017,Dowtown,0,0,15.7
+2066657,3,4,1776,Detached,1950,Dowtown,8393,2,16.9
+1888648,1,1,3143,Semi-Detached,2004,Scarborough,7945,1,17
+1071559,3,1,914,Townhouse,1952,Mississauga,3221,1,18.6
+1681214,4,5,1102,Semi-Detached,1987,Brampton,3425,1,12.3
+1539880,2,5,2053,Townhouse,1950,Brampton,7604,0,16.5
+2102403,6,3,2466,Condo,1987,Scarborough,0,0,22.6
+1128763,4,2,422,Condo,1978,Brampton,0,0,12
+2325004,4,4,2860,Condo,1954,Dowtown,0,0,11.6
+1657812,5,3,1453,Condo,1970,Etobicoke,0,0,12.7
+1709321,2,5,2230,Condo,2020,Brampton,0,0,6.2
+2112200,4,4,2555,Semi-Detached,2016,Scarborough,7950,1,9.5
+2383322,4,5,3838,Condo,1996,Mississauga,0,0,9.2
+1434204,2,4,1704,Detached,1984,Scarborough,2067,2,15
+1912715,2,2,3599,Detached,2017,North York,1628,0,21.7
+2567877,4,3,3700,Semi-Detached,2018,Scarborough,4010,0,26.6
+1662772,2,4,1534,Townhouse,1950,Dowtown,8367,0,15.5
+2070688,4,1,2583,Detached,2017,Etobicoke,2865,2,18.7
+1308412,4,1,761,Townhouse,1961,Etobicoke,6083,0,16.9
+2780505,5,4,3657,Semi-Detached,2009,Brampton,5397,1,0
+2021288,1,4,2576,Townhouse,1976,Dowtown,6218,1,5.8
+2301607,4,4,2299,Townhouse,2005,North York,6501,2,21.1
+1678250,3,1,1684,Townhouse,1972,Dowtown,5067,0,21.9
+1596698,6,1,914,Townhouse,1974,Scarborough,9771,1,21.7
+1303715,1,4,848,Semi-Detached,1970,Dowtown,3241,2,13.6
+2176286,1,5,2323,Detached,2010,Dowtown,3520,0,0
+2288181,1,5,3575,Condo,2012,North York,0,0,6.8
+1788784,5,2,1906,Townhouse,2001,Scarborough,728,0,8
+1530885,4,3,1647,Detached,1974,Mississauga,8862,2,20
+2165927,5,5,2255,Detached,2004,Mississauga,794,0,12.1
+1267414,4,1,1273,Semi-Detached,1995,Etobicoke,4784,2,28.5
+2817259,5,5,3962,Detached,1981,Brampton,9117,0,26.7
+2735862,5,2,2920,Semi-Detached,2004,Dowtown,7301,1,28.4
+2122144,6,2,3481,Townhouse,1954,Etobicoke,1418,2,7.7
+1587453,3,3,1828,Townhouse,1985,North York,998,2,18.9
+1882554,5,5,2749,Condo,1998,Mississauga,0,0,11.2
+2391186,6,1,2678,Condo,2007,Dowtown,0,0,17.6
+1280847,2,1,2154,Condo,1988,North York,0,0,8.6
+1644299,3,4,1322,Detached,2010,Brampton,4279,1,24.8
+2074344,5,1,3537,Townhouse,1958,North York,2618,2,8.7
+1967880,1,3,3384,Semi-Detached,1955,Dowtown,6891,2,0
+1513731,2,3,2559,Condo,1984,Brampton,0,0,31.3
+1175899,2,1,1436,Semi-Detached,1988,North York,8442,0,18.5
+1717103,6,1,1816,Semi-Detached,1971,Brampton,5065,1,6.4
+1801940,2,4,2947,Condo,1990,Dowtown,0,0,13.7
+2113927,3,1,3379,Townhouse,1954,Dowtown,5687,0,10.4
+2222954,5,4,3045,Condo,1991,Brampton,0,0,15
+2561741,5,4,2681,Semi-Detached,2016,Scarborough,8743,1,21.4
+1603745,1,1,3049,Condo,1979,Etobicoke,0,0,20.2
+1677245,6,2,713,Semi-Detached,2006,North York,2320,0,17
+1674731,1,2,3013,Semi-Detached,2022,North York,3464,2,15
+1800490,2,4,3483,Condo,1978,Scarborough,0,0,23.6
+1449499,1,1,2656,Detached,1986,Scarborough,3068,0,0
+1692736,3,2,2397,Condo,1962,Scarborough,0,0,9
+1536584,5,1,1437,Detached,1981,Mississauga,2367,0,7.2
+1273953,2,1,2056,Semi-Detached,1995,Mississauga,7965,0,23.1
+1819691,1,1,3889,Semi-Detached,1972,Brampton,8102,1,9.1
+2461431,6,5,3908,Detached,1994,Mississauga,3699,2,4.7
+2419279,3,1,3848,Semi-Detached,1966,Dowtown,6603,2,19.4
+2379220,3,5,3491,Detached,2015,Brampton,740,1,7.7
+1671475,1,4,3034,Detached,1955,North York,3940,1,12.2
+1839936,5,2,2178,Semi-Detached,1967,Etobicoke,5131,2,34
+1544929,1,2,1414,Townhouse,1971,Dowtown,8774,2,21.3
+1424740,2,2,1493,Detached,1982,North York,5577,2,13.3
+1586176,1,2,3682,Condo,1979,North York,0,0,14
+1355379,3,2,1524,Condo,1981,Brampton,0,0,22.3
+1185197,1,2,1097,Semi-Detached,1991,Scarborough,8495,1,20.3
+2135111,5,2,2579,Townhouse,1959,Scarborough,9302,0,15.6
+2356490,6,4,1804,Semi-Detached,1985,Dowtown,6929,2,15.8
+1372813,4,1,1555,Townhouse,1983,Scarborough,4105,2,3.2
+1223677,1,3,1443,Detached,2022,North York,2673,0,1.5
+2208667,5,5,2329,Detached,1977,Scarborough,7068,0,13.6
+1892297,5,3,2983,Detached,1960,Mississauga,3101,0,9.9
+1831861,6,3,1413,Detached,1988,Scarborough,3157,0,19.7
+1006355,3,1,626,Condo,1996,North York,0,0,16.6
+2150084,5,1,3625,Condo,1968,Brampton,0,0,8.8
+1839538,5,1,2228,Semi-Detached,1964,Dowtown,2659,1,16.3
+1641689,5,2,1892,Townhouse,1977,Etobicoke,4330,0,11.7
+1802232,5,4,1221,Detached,1973,Scarborough,8813,0,31.5
+1578710,2,2,2423,Detached,2021,North York,4868,1,18.1
+1377014,2,4,1270,Townhouse,1958,Etobicoke,1817,0,2.5
+2129468,3,4,2852,Townhouse,1996,Etobicoke,4993,2,29.6
+1518097,1,3,2649,Semi-Detached,1982,Mississauga,1730,2,9.9
+2200940,5,3,2485,Townhouse,2011,Etobicoke,1633,0,7.2
+2289474,6,4,3389,Detached,1968,Brampton,8107,1,32.1
+1620636,1,4,2195,Detached,2016,North York,1801,2,17.8
+1526564,6,2,587,Detached,1989,North York,2410,1,20.6
+1432633,1,2,1480,Detached,1996,Scarborough,8582,2,20.9
+1635953,3,3,1340,Detached,2014,Scarborough,8607,0,13.4
+2403794,5,1,3491,Semi-Detached,1978,Scarborough,8470,1,10.4
+2043568,5,4,2720,Detached,1999,Brampton,2416,1,11.7
+2105347,4,2,3590,Semi-Detached,1962,Etobicoke,7496,1,27.9
+2105347,4,2,3590,Semi-Detached,1962,Etobicoke,7496,1,27.9
+1616798,1,2,2963,Condo,1983,Mississauga,0,0,25.5
+1735907,1,4,3692,Condo,1997,Brampton,0,0,14.4
+1196253,2,4,925,Condo,1997,Scarborough,0,0,9
+2599348,4,5,3986,Condo,1998,Dowtown,0,0,3.5
+1167083,2,1,735,Semi-Detached,2013,Mississauga,9183,0,20.2
+2361192,2,5,3145,Semi-Detached,2010,Dowtown,560,1,28.6
+1416204,2,3,1478,Townhouse,1978,Etobicoke,9769,1,7.9
+1987033,6,2,2947,Detached,1988,Mississauga,7181,0,19.1
+2231755,6,3,3347,Condo,1975,Mississauga,0,0,4
+2072565,3,4,3213,Semi-Detached,1966,North York,1085,0,10.6
+2345515,3,5,2983,Detached,2020,Etobicoke,6323,1,17.1
+1240420,2,5,561,Detached,1962,Etobicoke,1034,1,1.2
+1526531,4,5,993,Semi-Detached,2018,Brampton,3962,0,14.9
+1481686,1,3,2338,Condo,1975,Mississauga,0,0,8.3
+2236010,6,4,2606,Townhouse,1998,Etobicoke,3898,2,19.8
+2082607,4,2,3659,Detached,2016,Mississauga,2655,0,13.7
+1257371,5,2,459,Townhouse,1956,Brampton,6466,0,22.5
+2567595,6,3,3362,Condo,2007,Brampton,0,0,12.8
+2711735,6,5,3790,Condo,1998,North York,0,0,4.1
+1668342,3,1,2301,Townhouse,2002,Mississauga,9696,0,3.1
+1745398,1,3,2658,Condo,2014,Etobicoke,0,0,0
+1180825,1,3,805,Detached,2011,Etobicoke,9018,2,20.1
+1444351,5,4,1063,Townhouse,1966,Mississauga,5203,1,35.5
+1477231,5,2,1532,Condo,1992,Mississauga,0,0,18.5
+1719197,6,3,1499,Townhouse,1974,Mississauga,501,1,28.4
+1399994,2,3,941,Detached,1952,Scarborough,9725,1,24.1
+1545093,3,5,1737,Condo,1978,Etobicoke,0,0,10.9
+1330488,3,5,1397,Detached,1981,Brampton,1604,0,25.1
+1530704,6,1,1540,Condo,1975,Etobicoke,0,0,11.2
+2011885,4,4,3374,Semi-Detached,1965,Scarborough,5769,0,11.3
+923080,2,1,1267,Condo,1974,Mississauga,0,0,13.3
+2415931,6,5,2466,Townhouse,2003,North York,8820,0,13.7
+937371,2,2,831,Condo,1977,Mississauga,0,0,20.3
+1434118,2,5,1139,Detached,2022,Mississauga,5346,0,9.6
+1694974,2,4,1773,Detached,2005,Scarborough,3629,1,22.1
+1552973,6,5,582,Condo,2014,Etobicoke,0,0,22
+1792454,3,4,2560,Townhouse,1990,Mississauga,8581,2,17.7
+1568781,3,4,1606,Semi-Detached,2000,Etobicoke,1401,0,30.5
+2167137,2,4,2928,Townhouse,2020,Dowtown,5898,2,25.3
+1731343,4,4,1569,Semi-Detached,1978,Brampton,7178,1,23.6
+1192944,1,4,1230,Detached,1968,Etobicoke,6029,1,15.5
+2064938,6,2,2051,Townhouse,2015,North York,7104,1,17.8
+1004857,1,1,1536,Semi-Detached,1990,Brampton,4418,0,19.2
+1832791,4,3,3210,Condo,1994,North York,0,0,15.1
+1335690,6,1,875,Detached,1964,Mississauga,526,1,12
+1968314,2,4,3210,Condo,1952,Brampton,0,0,0
+1423899,3,2,1726,Detached,1960,Etobicoke,7764,2,20.7
+1507924,1,5,1370,Townhouse,2002,Brampton,7618,1,23.3
+1548346,5,2,1419,Townhouse,1995,Mississauga,1047,2,5.7
+1853524,5,4,1541,Detached,1979,Scarborough,9258,1,19.8
+2134039,4,2,2236,Detached,2006,North York,9395,2,10.3
+940384,2,2,560,Detached,1967,Mississauga,5838,1,12.1
+1929638,1,4,2848,Townhouse,2000,Scarborough,3640,2,25.5
+1024926,2,2,597,Semi-Detached,1997,Brampton,8496,0,7.1
+1256764,1,3,1683,Condo,2015,Brampton,0,0,7.1
+1389550,4,3,1059,Condo,1957,Mississauga,0,0,29.4
+1773730,4,2,2175,Townhouse,1971,Etobicoke,5443,2,13.8
+1671479,5,5,1470,Condo,1955,Brampton,0,0,25
+2060746,2,4,2410,Detached,2006,Etobicoke,8298,1,2.2
+1595291,6,3,798,Semi-Detached,1985,Etobicoke,4291,1,2.9
+1964215,5,5,2133,Condo,2006,Etobicoke,0,0,7.7
+1776239,2,2,1982,Semi-Detached,1998,Dowtown,8592,0,11.1
+1989611,5,5,2525,Detached,1994,Scarborough,3725,2,3.8
+2155165,6,1,2571,Condo,2015,Scarborough,0,0,18
+1363584,3,3,474,Townhouse,1994,Brampton,9237,2,18.5
+1599549,3,2,2584,Semi-Detached,1969,Brampton,3228,0,7.8
+1597007,3,4,1001,Detached,2013,Etobicoke,7226,2,8.5
+2356916,3,2,3871,Semi-Detached,2016,Dowtown,7981,0,9.5
+1056935,1,4,1236,Condo,1952,Etobicoke,0,0,5.7
+1942212,3,2,1928,Condo,2003,Dowtown,0,0,0
+1713970,6,5,899,Townhouse,2013,Etobicoke,1116,1,14.3
+1856328,4,5,1996,Detached,1989,North York,4144,1,11.6
+1709386,4,5,537,Detached,2008,North York,6913,0,12.4
+1590463,1,1,2497,Townhouse,2004,Mississauga,1703,2,6.9
+1912711,3,4,2194,Townhouse,2011,Etobicoke,3065,1,21.5
+1570241,3,5,1372,Detached,1953,Brampton,3674,2,34.4
+1672889,3,1,2042,Semi-Detached,2009,Scarborough,3581,1,8.3
+2116941,5,4,2285,Semi-Detached,1979,Mississauga,3130,2,26.2
+1616035,2,2,2701,Townhouse,1951,Brampton,3661,0,17.9
+2034070,5,1,2428,Semi-Detached,2011,North York,4821,2,15.3
+1787141,2,3,3157,Detached,1998,Etobicoke,9361,1,12.2
+1296408,3,1,2300,Condo,1958,Mississauga,0,0,14.3
+1703898,3,1,3010,Condo,1980,Etobicoke,0,0,24.2
+2777744,5,4,3204,Semi-Detached,2010,North York,7876,1,5.9
+1766993,5,2,1849,Townhouse,1997,Mississauga,4578,0,12.8
+1397860,2,3,946,Townhouse,1974,North York,6301,2,25
+2634504,4,5,3773,Townhouse,1985,Dowtown,4651,1,22.9
+1691630,2,5,1321,Townhouse,1957,North York,9411,2,6
+1599877,5,1,980,Townhouse,2022,Etobicoke,3100,2,13.5
+2211862,6,4,1772,Semi-Detached,2007,Scarborough,6675,0,20.8
+1845305,5,4,2356,Condo,1994,North York,0,0,20.3
+2236977,6,5,2403,Condo,2011,Brampton,0,0,22.8
+1715176,1,3,2496,Semi-Detached,1988,Scarborough,6340,0,18.1
+2482212,5,2,3364,Townhouse,2007,Dowtown,4065,1,19.4
+2228301,1,3,3545,Semi-Detached,2013,Mississauga,5093,2,17.7
+1164383,4,2,1103,Condo,1993,Mississauga,0,0,27.6
+2082819,2,5,2708,Detached,1978,Scarborough,8821,1,11.6
+2339196,6,2,2803,Semi-Detached,2008,Mississauga,5234,2,15.4
+1882915,2,4,2025,Townhouse,2020,North York,6757,0,6.9
+1673069,1,1,3731,Condo,1958,Scarborough,0,0,5.3
+1506036,6,1,1037,Condo,1955,Etobicoke,0,0,17.6
+1983187,2,5,3190,Condo,1978,North York,0,0,9.2
+2454269,5,4,3766,Condo,2007,North York,0,0,14.5
+1456793,3,3,1409,Townhouse,1966,North York,1492,2,27.9
+1915262,1,4,3378,Detached,1965,Etobicoke,7358,2,27.5
+1138008,2,1,1040,Condo,1952,Dowtown,0,0,32.8
+1520012,1,1,3239,Semi-Detached,1970,Brampton,2723,0,28.1
+2370227,1,4,3784,Detached,2013,Mississauga,5022,2,34.2
+2217832,6,4,3059,Condo,1985,Scarborough,0,0,18.5
+2323638,6,1,2261,Detached,2011,Dowtown,3737,1,7.8
+1970993,3,3,3256,Semi-Detached,1991,Scarborough,4636,1,7
+1625818,5,5,1605,Condo,1991,Mississauga,0,0,26.2
+1597805,1,5,1085,Semi-Detached,2010,Etobicoke,5204,2,15.4
+1757428,2,4,2251,Townhouse,1962,North York,5323,2,16
+2527330,4,5,3835,Condo,1960,North York,0,0,10.6
+777201,1,1,587,Condo,2003,Etobicoke,0,0,11.6
+1283193,1,1,2019,Condo,1965,Dowtown,0,0,18.1
+1956053,3,4,2087,Condo,1957,Dowtown,0,0,6.6
+2040514,5,4,1384,Townhouse,2008,Scarborough,7627,2,17.1
+1427072,4,4,947,Condo,2006,Etobicoke,0,0,27.1
+2369665,6,3,3172,Detached,1989,Dowtown,3383,2,0
+2783474,6,5,3373,Condo,2008,Etobicoke,0,0,2.7
+1573863,2,4,1831,Townhouse,1951,Mississauga,7461,2,20.4
+1377949,4,2,1275,Condo,1959,North York,0,0,25.9
+1591289,6,2,1017,Detached,1993,North York,9809,0,11.1
+1604284,2,1,2861,Townhouse,1960,North York,3501,2,0
+2052713,5,5,1765,Townhouse,1951,Etobicoke,2238,1,26.5
+1395970,2,4,1643,Detached,1999,Etobicoke,1864,2,8.5
+1646883,6,2,1302,Detached,1961,Scarborough,3208,2,12.1
+1402456,3,5,562,Detached,1972,North York,1424,2,17.6
+1440932,3,1,2374,Detached,1967,Scarborough,651,1,9.7
+2399676,3,3,3691,Detached,2011,North York,9277,1,8
+1968440,6,5,669,Townhouse,2011,Scarborough,8544,1,8.1
+1407225,3,5,1031,Townhouse,1987,Scarborough,1412,0,29.9
+1490975,4,3,1305,Condo,2016,Mississauga,0,0,24.3
+2369306,5,5,3871,Condo,1987,Scarborough,0,0,19.6
+2035624,2,1,3653,Semi-Detached,2016,Etobicoke,2648,0,0
+1577404,2,1,2414,Condo,2010,Scarborough,0,0,19.6
+1893627,6,3,2041,Condo,1950,North York,0,0,19.2
+1145882,3,4,604,Detached,1994,Scarborough,2620,1,4.8
+1453108,3,2,981,Detached,1977,Dowtown,3585,0,17.1
+1465502,1,4,1979,Condo,1970,Brampton,0,0,23.4
+1693892,5,5,1240,Semi-Detached,1962,North York,656,1,19.6
+2116689,4,2,2236,Detached,1976,Dowtown,9426,1,9.6
+1335280,2,3,1651,Condo,1956,North York,0,0,15.1
+1457239,1,3,2119,Condo,1971,Etobicoke,0,0,20.8
+1579270,1,2,2042,Townhouse,2002,Brampton,6023,0,15.5
+2003684,6,1,3043,Semi-Detached,1953,Brampton,8043,2,25
+1728098,2,2,2697,Townhouse,1972,Etobicoke,8555,1,18.2
+1938361,6,5,1274,Semi-Detached,2019,Brampton,5154,0,21
+1578694,4,1,1864,Detached,1982,Etobicoke,6750,2,21.6
+1751056,1,3,2643,Semi-Detached,1977,Dowtown,7746,1,6.5
+984825,1,2,1089,Condo,1957,Mississauga,0,0,15.4
+1744455,5,4,2410,Condo,1950,North York,0,0,12.3
+2360169,4,4,3990,Semi-Detached,1986,Etobicoke,1496,1,23.4
+2305862,1,5,3541,Semi-Detached,2012,North York,5126,0,18.7
+2159692,4,4,3086,Semi-Detached,1971,Dowtown,3405,0,13.5
+1695966,2,2,1822,Townhouse,2019,Mississauga,9869,0,4.7
+1925465,3,2,2401,Semi-Detached,1970,Dowtown,653,1,2.2
+1251082,1,4,1071,Detached,1984,Brampton,8353,1,17.5
+2290383,5,2,3674,Townhouse,1954,North York,6981,2,9.3
+1589506,2,5,1571,Townhouse,2009,Mississauga,6099,1,20.3
+1503957,4,1,1895,Semi-Detached,1995,Brampton,2216,0,1.9
+1642990,6,5,1343,Detached,1999,Mississauga,1286,1,27.7
+1923070,2,5,2646,Townhouse,1997,Brampton,4868,2,20.3
+1500909,1,2,1849,Condo,1955,Dowtown,0,0,15.8
+1917688,4,1,2939,Townhouse,2005,Etobicoke,4772,0,28.5
+1553784,3,2,1295,Semi-Detached,2008,North York,4267,0,22.6
+1657727,2,3,2589,Detached,1978,Scarborough,9334,2,11.2
+1578108,1,2,1736,Semi-Detached,2020,Scarborough,6494,2,15.6
+1310875,5,2,564,Condo,1967,Dowtown,0,0,0
+2035971,6,2,2761,Condo,1951,North York,0,0,23.5
+1534656,4,1,2468,Condo,1957,North York,0,0,12.6
+1779537,2,2,1505,Semi-Detached,2003,Dowtown,4283,2,0
+1878750,2,1,3602,Townhouse,1987,North York,5927,0,5.5
+1683630,3,4,2153,Semi-Detached,1997,Etobicoke,7511,1,22
+2378639,3,3,3431,Detached,1976,Dowtown,8552,1,27.9
+1889161,5,1,2752,Townhouse,1969,Etobicoke,4201,2,15.2
+2066024,6,4,2338,Condo,1961,North York,0,0,7.1
+1596250,5,1,770,Semi-Detached,1992,Dowtown,2849,1,3.6
+1359802,1,1,2280,Condo,2010,North York,0,0,26.3
+1245943,1,3,1252,Condo,1980,Dowtown,0,0,18.6
+1566654,5,5,783,Detached,2010,North York,1712,2,12.4
