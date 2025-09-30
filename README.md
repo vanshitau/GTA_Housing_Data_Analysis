@@ -72,6 +72,10 @@ According to the results, Linear Regression performed better than Random Forest 
 As mentioned earlier, Random Forest has the ability to tell which features are the most important for predicting the price". 
 
 
+![Feature Importance](feature_importance.png)
+
+
+
 
 
 According to this model, the most important feature is ```sqft``` followed by ```bedrooms```, ```bathrooms```, and ```lot_size```. 
