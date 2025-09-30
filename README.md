@@ -10,6 +10,22 @@ project/
 │── gta_housing_analysis.ipynb # notebook for EDA + modeling
 │── README.md # project overview
 ```
+## Exploratory Data Analysis
+### Distribution of House Prices
+![Distribution of House Prices](distribution_of_house_prices.png)
+
+This histogram shows how the house prices are right-skewed, meaning most homes cluster at the lower-to-mid price range while the expensive ones are tailed towards right. This is typically how the real estate market works where more affordable homes are common and luxury homes are rare and at a higher price. 
+
+### Price vs Bedrooms 
+![Price vs bedrooms ](median_price.png)
+
+When prices are compared to the number of bedrooms, there is a positive trend -> More bedrooms, higher price. However, this is not perfectly linear as a 5-bedroom home isn't always worth muh more than a 4-bedroom. 
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+This heatmap shows that there is a strong correlation between ```sqft``` and ```price```. Additionaly, bedrooms and bathrooms are correlated with price, but less strongly than square footage. Other features (ie. garage, years built and distance to downtown) have weaker or mixed correlations - not dominant drives of price). 
+
 ## Models
 ### Linear Regression
 A supervised machine learning model algorithm to predict a continuous target variable based on one or more independent variables by fitting the best straight line (line of best fit) to the data. The line showcases the minimum difference (error) between the predicted and actual values. 
@@ -32,8 +48,6 @@ importances = pd.Series(rf_model.feature_importances_, index=X_train.columns)
 print(importances.sort_values(ascending=False))
 ```
 
-
-
 ## Evaluation
 In order to evaluate both models, RMSE, MAE and R² were computed. 
 
@@ -50,4 +64,15 @@ R²: How well the model explains the variation in prices
 | MAE | 91,481 | 110,361 |
 | R² | 0.939 | 110,361 |
 
-According to the results, Linear Regression performed better than Random Forest on this data as it has lower errors and higher R²
+According to the results, Linear Regression performed better than Random Forest on this data as it has lower errors and higher R².
+
+
+## Feature Importance (Random Forest)
+
+As mentioned earlier, Random Forest has the ability to tell which features are the most important for predicting the price". 
+
+
+![Feature Importance](feature_importance.png)
+
+
+According to this model, the most important feature is ```sqft``` followed by ```bedrooms```, ```bathrooms```, and ```lot_size```. 
