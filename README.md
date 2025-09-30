@@ -35,6 +35,12 @@ A supervised machine learning model algorithm to predict a continuous target var
   **Target (y)** -> the ```Price``` column 
 
   During prediction, all the rows, except the price column, are fed into the model. The categorical variables (```House Type, Neighbourhood```) get one-hot encoded. Additionally, each feature value is multiplied by its learned coefficient and then added to the intercept.
+  ```python
+  # One-Hot Encoding
+  import pandas as pd
+  
+  X = pd.get_dummies(X, drop_first=True)
+  ```
 ### Random Forest Regression
 An ensemble learning method used in machine learning for predicting continuous numerical values. It utilizes multiple decision trees during training and then calculates the average of each individual's predictions to produce a more robust final prediction.
 #### When training the model:
@@ -69,13 +75,14 @@ According to the results, Linear Regression performed better than Random Forest 
 
 ## Feature Importance (Random Forest)
 
-As mentioned earlier, Random Forest has the ability to tell which features are the most important for predicting the price". 
+As mentioned earlier, Random Forest has the ability to tell which features are the most important for predicting the price. 
 
 
 ![Feature Importance](feature_importance.png)
 
+According to this model, the most important feature is ```sqft``` followed by ```bedrooms```, ```bathrooms```, and ```lot_size```. This indicates that the dataset is largely size driven when it comes to pricing. 
 
 
-
-
-According to this model, the most important feature is ```sqft``` followed by ```bedrooms```, ```bathrooms```, and ```lot_size```. 
+## Next Steps
+* Use real housing market data for more realistic results
+* Add location based features (ie. transit access, schools) to get more neighbourhood effects
