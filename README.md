@@ -68,7 +68,7 @@ R²: How well the model explains the variation in prices
 |---|---|---|
 | RMSE | 111,938 | 142,701 |
 | MAE | 91,481 | 110,361 |
-| R² | 0.939 | 110,361 |
+| R² | 0.939 | 0.901 |
 
 According to the results, Linear Regression performed better than Random Forest on this data as it has lower errors and higher R².
 
